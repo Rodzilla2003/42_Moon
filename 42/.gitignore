@@ -1,0 +1,11 @@
+*.DS_Store
+a.out
+*.o
+*.so
+*~
+*.webarchive
+*.42
+*.csv
+*.ipynb
+42
+*.ipynb_checkpoints

@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "post_capture_height_km": [
+    298.464082004287,
+    301.798504800867
+  ],
+  "max_eccentricity": 0.000912030350488355,
+  "energy_j_kg": [
+    -1202865.92153553,
+    -1202748.77571598
+  ],
+  "orbits_observed": 6.201010488169631,
+  "step_convergence_max_position_error_m": 6.478181117463063,
+  "no_capture_final_height_km": 52866.6335829703,
+  "no_capture_final_energy_j_kg": 359985.332553072,
+  "capture_time_s": 388800
+}
